@@ -3,3 +3,4 @@ so i like this better for day to day use and replace for programs like Nemo and 
 i also wanted a file manager that makes sane copies, like insteads of just adding the word
 copy to a directory it adds the data and time so you can make lots of copies with an
 easy to read name and versioning system for programmers. Cheers !!!
+The github listing of archives shows this ( uses Australian Date format dd/mm/yy 
